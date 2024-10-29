@@ -18,7 +18,7 @@ namespace ClassIntro
 
             Kurs kurs2 = new Kurs();
             kurs2.KursAdi = "Python";
-            kurs2.Egitmen = "Sude Nur Can";
+            kurs2.Egitmen = "Muammer Baytar";
             kurs2.IzlenmeOrani = 96;
 
             //Console.WriteLine(kurs.KursAdi + " : " + kurs.Egitmen + " % " + kurs.IzlenmeOrani);
